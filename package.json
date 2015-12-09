@@ -1,0 +1,10 @@
+{
+  "name": "AngularData",
+  "version": "0.0.1",
+  "author": "Daniil Borovkov aka tserin108",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.7",
+    "gulp-webserver": "^0.9.1"
+  }
+}
